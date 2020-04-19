@@ -6,7 +6,11 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-requirements-txt = "*"
+asgiref = "*"
+django = "*"
+djangorestframework = "*"
+pytz = "*"
+sqlparse = "*"
 
 [requires]
 python_version = "3.6"

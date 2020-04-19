@@ -9,6 +9,9 @@ verify_ssl = true
 django = "*"
 djangorestframework = "*"
 pytz = "*"
+asgiref = "*"
+sqlparse = "*"
+django-heroku = "*"
 
 [requires]
 python_version = "3.6"
